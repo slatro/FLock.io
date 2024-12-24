@@ -66,14 +66,6 @@ bash start.sh \
 --auto_clean_cache False
 ```
 
-> Kurulum bu kadar bir sorun alırsanız chatte çözeriz si yu <3
+> Kurulum bu kadar bir sorun alırsanız chatte çözeriz si yu <3 .
 
 ![image](https://github.com/user-attachments/assets/f21d1341-f53b-4c2f-b31f-e578fd3688c0)
-
-
-
-
-
-
-
-
